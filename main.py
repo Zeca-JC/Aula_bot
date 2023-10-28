@@ -47,3 +47,4 @@ Database.chatbot_fotos(bot)
 
 bot.polling()
 
+# Arquivo principal, recebe todas as funçoes do outros arquivos.
