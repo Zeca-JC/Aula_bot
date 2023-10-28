@@ -1,0 +1,3 @@
+Nome: José Carlos - Curso: Física
+Nome: Alice - Curso: Biologia
+Nome: Pintudo - Curso: Java
